@@ -1,0 +1,2 @@
+An object is an instance of class.
+when object s created memory will be allocated.
