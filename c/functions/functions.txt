@@ -1,0 +1,3 @@
+functions plays an prominent important in c.
+functions makes the programs simple and easy.
+functions are also called as subprogram...
